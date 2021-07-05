@@ -1,0 +1,91 @@
+kmeans1: 0.0 1 8 0 1 0 0 kmeans
+kmeans2: 0.0 1 8 1 1 0 0 kmeans
+kmeans3: 0.0 1 8 2 1 0 0 kmeans
+kmeans4: 0.0 1 8 3 1 0 0 kmeans
+kmeans5: 0.0 1 8 4 1 0 0 kmeans
+kmeans6: 0.0 1 8 5 1 0 0 kmeans
+kmeans7: 0.0 1 8 6 1 0 0 kmeans
+kmeans8: 0.0 1 8 7 1 0 0 kmeans
+kmeans9: 0.0 1 8 8 1 0 0 kmeans
+kmeans10: 0.0 1 8 9 1 0 0 kmeans
+kmeans11: 0.2 1 8 0 1 0 0 kmeans
+kmeans12: 0.2 1 8 1 1 0 0 kmeans
+kmeans13: 0.2 1 8 2 1 0 0 kmeans
+kmeans14: 0.2 1 8 3 1 0 0 kmeans
+kmeans15: 0.2 1 8 4 1 0 0 kmeans
+kmeans16: 0.2 1 8 5 1 0 0 kmeans
+kmeans17: 0.2 1 8 6 1 0 0 kmeans
+kmeans18: 0.2 1 8 7 1 0 0 kmeans
+kmeans19: 0.2 1 8 8 1 0 0 kmeans
+kmeans20: 0.2 1 8 9 1 0 0 kmeans
+kmeans21: 0.0 10 8 0 1 0 0 kmeans
+kmeans22: 0.0 10 8 1 1 0 0 kmeans
+kmeans23: 0.0 10 8 2 1 0 0 kmeans
+kmeans24: 0.0 10 8 3 1 0 0 kmeans
+kmeans25: 0.0 10 8 4 1 0 0 kmeans
+kmeans26: 0.0 10 8 5 1 0 0 kmeans
+kmeans27: 0.0 10 8 6 1 0 0 kmeans
+kmeans28: 0.0 10 8 7 1 0 0 kmeans
+kmeans29: 0.0 10 8 8 1 0 0 kmeans
+kmeans30: 0.0 10 8 9 1 0 0 kmeans
+kmeans31: 0.2 10 8 0 1 0 0 kmeans
+kmeans32: 0.2 10 8 1 1 0 0 kmeans
+kmeans33: 0.2 10 8 2 1 0 0 kmeans
+kmeans34: 0.2 10 8 3 1 0 0 kmeans
+kmeans35: 0.2 10 8 4 1 0 0 kmeans
+kmeans36: 0.2 10 8 5 1 0 0 kmeans
+kmeans37: 0.2 10 8 6 1 0 0 kmeans
+kmeans38: 0.2 10 8 7 1 0 0 kmeans
+kmeans39: 0.2 10 8 8 1 0 0 kmeans
+kmeans40: 0.2 10 8 9 1 0 0 kmeans
+
+22254145 pezeshki rrg-bengioy-        ntk1.sh
+22254146 pezeshki rrg-bengioy-        ntk2.sh
+22254147 pezeshki rrg-bengioy-        ntk3.sh
+22254148 pezeshki rrg-bengioy-        ntk4.sh
+22254149 pezeshki rrg-bengioy-        ntk5.sh
+22254152 pezeshki rrg-bengioy-        ntk6.sh
+22254153 pezeshki rrg-bengioy-        ntk7.sh
+22254154 pezeshki rrg-bengioy-        ntk8.sh
+22254155 pezeshki rrg-bengioy-        ntk9.sh
+22254156 pezeshki rrg-bengioy-       ntk10.sh
+22254187 pezeshki rrg-bengioy-     kmeans1.sh
+22254188 pezeshki rrg-bengioy-     kmeans2.sh
+22254189 pezeshki rrg-bengioy-     kmeans3.sh
+22254190 pezeshki rrg-bengioy-     kmeans4.sh
+22254191 pezeshki rrg-bengioy-     kmeans5.sh
+22254192 pezeshki rrg-bengioy-     kmeans6.sh
+22254193 pezeshki rrg-bengioy-     kmeans7.sh
+22254195 pezeshki rrg-bengioy-     kmeans8.sh
+22254196 pezeshki rrg-bengioy-     kmeans9.sh
+22254197 pezeshki rrg-bengioy-    kmeans10.sh
+22254198 pezeshki rrg-bengioy-    kmeans11.sh
+22254199 pezeshki rrg-bengioy-    kmeans12.sh
+22254200 pezeshki rrg-bengioy-    kmeans13.sh
+22254201 pezeshki rrg-bengioy-    kmeans14.sh
+22254202 pezeshki rrg-bengioy-    kmeans15.sh
+22254203 pezeshki rrg-bengioy-    kmeans16.sh
+22254204 pezeshki rrg-bengioy-    kmeans17.sh
+22254205 pezeshki rrg-bengioy-    kmeans18.sh
+22254206 pezeshki rrg-bengioy-    kmeans19.sh
+22254207 pezeshki rrg-bengioy-    kmeans20.sh
+22254208 pezeshki rrg-bengioy-    kmeans21.sh
+22254209 pezeshki rrg-bengioy-    kmeans22.sh
+22254210 pezeshki rrg-bengioy-    kmeans23.sh
+22254211 pezeshki rrg-bengioy-    kmeans24.sh
+22254212 pezeshki rrg-bengioy-    kmeans25.sh
+22254213 pezeshki rrg-bengioy-    kmeans26.sh
+22254214 pezeshki rrg-bengioy-    kmeans27.sh
+22254215 pezeshki rrg-bengioy-    kmeans28.sh
+22254216 pezeshki rrg-bengioy-    kmeans29.sh
+22254217 pezeshki rrg-bengioy-    kmeans30.sh
+22254218 pezeshki rrg-bengioy-    kmeans31.sh
+22254219 pezeshki rrg-bengioy-    kmeans32.sh
+22254220 pezeshki rrg-bengioy-    kmeans33.sh
+22254221 pezeshki rrg-bengioy-    kmeans34.sh
+22254222 pezeshki rrg-bengioy-    kmeans35.sh
+22254223 pezeshki rrg-bengioy-    kmeans36.sh
+22254224 pezeshki rrg-bengioy-    kmeans37.sh
+22254225 pezeshki rrg-bengioy-    kmeans38.sh
+22254226 pezeshki rrg-bengioy-    kmeans39.sh
+22254227 pezeshki rrg-bengioy-    kmeans40.sh
